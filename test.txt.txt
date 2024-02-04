@@ -1,1 +1,2 @@
 Hello this is for testing purpose
+added second line for stage & commit
